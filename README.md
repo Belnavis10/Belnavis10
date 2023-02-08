@@ -10,7 +10,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Belnavis10/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Belnavis10/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Belnavis10/ticket-lifecycle) 
-<h2>🤳Connect with me:www.linkedin.com/in/paul-belnavis</h2>
+<h2>🤳Connect with me:</h2>
 
 
 [<img align="left" alt="paul-belnavis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
